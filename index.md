@@ -12,6 +12,7 @@
 | [02-arbitrum-rollup.md](02-arbitrum-rollup.md) | Rollup原理 / Arbitrum / 以太坊扩展方案 | 2026-06-10 |
 | [03-defi-basics.md](03-defi-basics.md) | DEX / 借贷协议 / 稳定币 / 收益聚合 | 2026-06-10 |
 | [04-hyperliquid.md](04-hyperliquid.md) | Hyperliquid全解析 / 技术难点 / 自建链条件 | 2026-06-12 |
+| [05-project-due-diligence.md](05-project-due-diligence.md) | 项目尽调方法论 / CocoCat案例 / CaryPact-BOT Chain案例 / 资金盘红旗清单 | 2026-06-16 |
 
 ---
 
@@ -26,3 +27,5 @@
 - **HyperBFT / 共识算法** → [Hyperliquid](04-hyperliquid.md#技术难点)
 - **MEV** → [Hyperliquid](04-hyperliquid.md#技术难点)
 - **Oracle** → [Hyperliquid](04-hyperliquid.md#技术难点)
+- **资金盘尽调五步法** → [项目尽调](05-project-due-diligence.md#一项目尽调五步法)
+- **传销/资金盘红旗清单** → [项目尽调](05-project-due-diligence.md#四通用红旗清单两个案例共同特征)
