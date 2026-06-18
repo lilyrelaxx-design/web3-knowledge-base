@@ -13,6 +13,7 @@
 | [03-defi-basics.md](03-defi-basics.md) | DEX / 借贷协议 / 稳定币 / 收益聚合 | 2026-06-10 |
 | [04-hyperliquid.md](04-hyperliquid.md) | Hyperliquid全解析 / 技术难点 / 自建链条件 | 2026-06-12 |
 | [05-project-due-diligence.md](05-project-due-diligence.md) | 项目尽调方法论 / CocoCat案例 / CaryPact-BOT Chain案例 / 资金盘红旗清单 | 2026-06-16 |
+| [06-ftx-and-exchange-tokens.md](06-ftx-and-exchange-tokens.md) | FTX事件全解析 / 交易所平台币逻辑 / Backpack BP代币分析 | 2026-06-18 |
 
 ---
 
@@ -29,3 +30,6 @@
 - **Oracle** → [Hyperliquid](04-hyperliquid.md#技术难点)
 - **资金盘尽调五步法** → [项目尽调](05-project-due-diligence.md#一项目尽调五步法)
 - **传销/资金盘红旗清单** → [项目尽调](05-project-due-diligence.md#四通用红旗清单两个案例共同特征)
+- **FTX事件** → [FTX与平台币](06-ftx-and-exchange-tokens.md#一ftx-事件加密行业的暴雷银行)
+- **交易所平台币** → [FTX与平台币](06-ftx-and-exchange-tokens.md#二什么是交易所平台币)
+- **Backpack / BP分析** → [FTX与平台币](06-ftx-and-exchange-tokens.md#三backpack-和-bp-代币分析)
