@@ -17,6 +17,7 @@
 | [05-project-due-diligence.md](05-project-due-diligence.md) | 项目尽调方法论 / CocoCat案例 / CaryPact-BOT Chain案例 / 资金盘红旗清单 | 2026-06-16 |
 | [06-ftx-and-exchange-tokens.md](06-ftx-and-exchange-tokens.md) | FTX事件全解析 / 交易所平台币逻辑 / Backpack BP代币分析 | 2026-06-18 |
 | [07-restaking-eigenlayer.md](07-restaking-eigenlayer.md) | Restaking原理 / EigenLayer / AVS / LRT（eETH/ezETH）/ 上币尽调维度 | 2026-07-27 |
+| [08-project-fundamentals.md](08-project-fundamentals.md) | 项目基本面完整手册：TVL / 市值与FDV / 收入费用 / 用户指标 / 交易量刷量识别 / 代币经济学 / 团队融资金库 / 流动性 / 安全审计 / 分赛道速查 / 数据源清单 / 红旗清单 | 2026-07-27 |
 
 （[web3-knowledge-all.md](web3-knowledge-all.md) 是早期合并版快照，不再自动维护）
 
@@ -57,3 +58,12 @@ BD / 运营 / 内容生产的方法论和踩坑记录。规则见 [work/README.m
 - **Restaking / 再质押** → [Restaking与EigenLayer](07-restaking-eigenlayer.md#核心概念restaking再质押)
 - **EigenLayer / AVS** → [Restaking与EigenLayer](07-restaking-eigenlayer.md#eigenlayer)
 - **LRT / 流动性再质押凭证** → [Restaking与EigenLayer](07-restaking-eigenlayer.md#lrt液态再质押凭证流动性再质押凭证)
+- **TVL 怎么读/怎么被造假** → [项目基本面](08-project-fundamentals.md#第二章-tvl总锁仓量)
+- **MC/FDV / 低流通高估值** → [项目基本面](08-project-fundamentals.md#第三章-市值fdv与供应结构)
+- **解锁压力算术（90天解锁÷日均交易量）** → [项目基本面](08-project-fundamentals.md#72-解锁表vesting)
+- **价值捕获五档** → [项目基本面](08-project-fundamentals.md#73-价值捕获value-accrual q2的核心问题)
+- **Real Yield / 真实收益** → [项目基本面](08-project-fundamentals.md#74-通胀与真实收益)
+- **wash trading / 刷量识别** → [项目基本面](08-project-fundamentals.md#第六章-交易量)
+- **分赛道速查表** → [项目基本面](08-project-fundamentals.md#第十二章-分赛道速查表)
+- **数据源操作清单（DefiLlama/Dune/Tokenomist等）** → [项目基本面](08-project-fundamentals.md#第十三章-数据源操作清单)
+- **基本面红旗清单** → [项目基本面](08-project-fundamentals.md#第十四章-红旗清单q5快速排查)
