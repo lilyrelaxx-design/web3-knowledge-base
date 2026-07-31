@@ -103,3 +103,20 @@ UTXO 只能花一次 → 代币只能转移一次
 - 1:1 锁定以太坊 USDT，在比特币上铸造 RGB-USDT
 - Tether 投资750万美元：战略投资，争夺比特币稳定币标准主导权
 - **意义**：比特币生态第一次有了原生稳定币，DeFi、支付成为可能
+
+---
+
+## ⚠️ 本节修正（2026-07-28 赛道调研复核）
+
+上面这段是早期笔记，经 [RGB赛道完整档案](research/2026-07-rgb-track.md) 双轮复核后有四处需要修正——**以档案口径为准**：
+
+| 早期说法 | 修正后 |
+|---------|--------|
+| Utexo 前身 Tricorn | 前身是 **ThunderStack**（rgb.info 口径：ThunderStack has since rebranded as Utexo） |
+| Utexo 做了跨链桥 | Utexo 是**商业发行与分销执行方**，不是法律发行主体（Tether 仍承担储备与赎回责任）。其 Mint 产品走 Arbitrum + USDT0 + LayerZero 结算，不是纯比特币原生无信任桥 |
+| Tether 投资 750 万美元 | 准确说法：2026-03 UTEXO 完成 750 万美元种子轮，**Tether 为主要出资方**（媒体口径称"领投"，未见一级来源确认单独领投） |
+| 比特币生态第一次有了原生稳定币 | **USDT-on-RGB 尚未完成可公开确认的正式发行**（Tether 2025-08 官宣的是"计划发行"）。另据多家二级来源交叉报道，Taproot Assets 线的 USDT 已于 2026-03 先行上线，RGB 不具备路线唯一性 |
+
+**这四条错误的共同来源**是把"计划/合作/投资"当成"已完成/官方发行"——正是 [work/research-writing.md 第八节](work/research-writing.md) 那五条硬规则要防的坑。
+
+赛道商业化进展、竞争格局、可交易敞口、监控清单 → 全部见 [research/2026-07-rgb-track.md](research/2026-07-rgb-track.md)。

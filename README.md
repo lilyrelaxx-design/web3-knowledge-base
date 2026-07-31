@@ -10,7 +10,7 @@
 
 | 文件 | 内容 | 最后更新 |
 |------|------|----------|
-| [01-bitcoin-rgb.md](01-bitcoin-rgb.md) | 比特币不可编程 / RGB协议 / Client-Side Validation | 2026-06-10 |
+| [01-bitcoin-rgb.md](01-bitcoin-rgb.md) | 比特币不可编程 / RGB协议 / Client-Side Validation（含 2026-07-28 复核修正，赛道进展见 research/） | 2026-07-31 |
 | [02-arbitrum-rollup.md](02-arbitrum-rollup.md) | Rollup原理 / Arbitrum / 以太坊扩展方案 | 2026-06-10 |
 | [03-defi-basics.md](03-defi-basics.md) | DEX / 借贷协议 / 稳定币 / 收益聚合 | 2026-06-10 |
 | [04-hyperliquid.md](04-hyperliquid.md) | Hyperliquid全解析 / 技术难点 / 自建链条件 | 2026-06-12 |
@@ -27,6 +27,7 @@
 
 | 文件 | 主题 | 日期 |
 |------|------|------|
+| [2026-07-rgb-track.md](research/2026-07-rgb-track.md) | **RGB赛道完整档案**（🔴活跃跟踪）：v0.11.1/v0.12分裂 / Tether-USDT落地进度 / UTEXO定位 / vs Taproot Assets与Tron / 生态盘点 / 可交易敞口 / 五阶段划分 / 监控清单 / 来源分级 | 2026-07-28 |
 | [2026-07-cmc-cber.md](research/2026-07-cmc-cber.md) | CMC/Cber平台币研报：流通市值/回撤/2.0升级催化/销毁口径拆解 | 2026-07-29 |
 
 ## 三、工作实务（work/）
@@ -36,7 +37,7 @@ BD / 运营 / 内容生产的方法论和踩坑记录。规则见 [work/README.m
 | 文件 | 内容 | 最后更新 |
 |------|------|----------|
 | [kb-management.md](work/kb-management.md) | 知识库在线查看（GitHub）/ 推送命令 / 自动同步机制 / 网页版手动搬运三种方式（粘贴/拖文件/批量导出） | 2026-07-31 |
-| [research-writing.md](work/research-writing.md) | 研报写作规范：来源标注 / 可比公司估值表 / 列名规范 / 极端情景处理 / 销毁数据口径陷阱 | 2026-07-29 |
+| [research-writing.md](work/research-writing.md) | 研报写作规范：来源标注 / 可比公司估值表 / 列名规范 / 极端情景处理 / 销毁数据口径陷阱 / **赛道调研固定框架 / 来源三级制与五条硬规则 / 事件触发制检查点** | 2026-07-31 |
 
 ---
 
@@ -68,3 +69,10 @@ BD / 运营 / 内容生产的方法论和踩坑记录。规则见 [work/README.m
 - **分赛道速查表** → [项目基本面](08-project-fundamentals.md#第十二章-分赛道速查表)
 - **数据源操作清单（DefiLlama/Dune/Tokenomist等）** → [项目基本面](08-project-fundamentals.md#第十三章-数据源操作清单)
 - **基本面红旗清单** → [项目基本面](08-project-fundamentals.md#第十四章-红旗清单q5快速排查)
+- **RGB vs RGB++（易混淆）** → [RGB赛道档案](research/2026-07-rgb-track.md#五rgb-与-rgb-的区别)
+- **RGB v0.11.1 vs v0.12 分裂** → [RGB赛道档案](research/2026-07-rgb-track.md#六rgb-v0111-与-v012-分裂)
+- **USDT-on-RGB 落地状态** → [RGB赛道档案](research/2026-07-rgb-track.md#九usdt-on-rgb-当前状态)
+- **Taproot Assets / TA 线** → [RGB赛道档案](research/2026-07-rgb-track.md#十竞争格局)
+- **赛道调研固定框架（可复用模板）** → [研报写作规范](work/research-writing.md#七赛道调研固定框架rgb赛道调研-2026-07-28-固化)
+- **来源三级制 A/B/C + 五条硬规则** → [研报写作规范](work/research-writing.md#八信息分级与写作准确性硬规则)
+- **事件触发制检查点** → [研报写作规范](work/research-writing.md#九检查点用事件触发制不用硬日期)
