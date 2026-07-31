@@ -35,7 +35,7 @@ BD / 运营 / 内容生产的方法论和踩坑记录。规则见 [work/README.m
 
 | 文件 | 内容 | 最后更新 |
 |------|------|----------|
-| [kb-management.md](work/kb-management.md) | 知识库在线查看（GitHub）/ 推送命令 / 自动同步机制 / 网页版手动搬运流程 | 2026-07-27 |
+| [kb-management.md](work/kb-management.md) | 知识库在线查看（GitHub）/ 推送命令 / 自动同步机制 / 网页版手动搬运三种方式（粘贴/拖文件/批量导出） | 2026-07-31 |
 | [research-writing.md](work/research-writing.md) | 研报写作规范：来源标注 / 可比公司估值表 / 列名规范 / 极端情景处理 / 销毁数据口径陷阱 | 2026-07-29 |
 
 ---
