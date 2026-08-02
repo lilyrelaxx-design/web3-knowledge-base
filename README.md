@@ -29,6 +29,7 @@
 |------|------|------|
 | [2026-07-rgb-track.md](research/2026-07-rgb-track.md) | **RGB赛道完整档案**（🔴活跃跟踪）：v0.11.1/v0.12分裂 / Tether-USDT落地进度 / UTEXO定位 / vs Taproot Assets与Tron / 生态盘点 / 可交易敞口 / 五阶段划分 / 监控清单 / 来源分级 | 2026-07-28 |
 | [2026-07-cmc-cber.md](research/2026-07-cmc-cber.md) | CMC/Cber平台币研报：流通市值/回撤/2.0升级催化/销毁口径拆解 | 2026-07-29 |
+| [2026-08-exchange-launchpad.md](research/2026-08-exchange-launchpad.md) | 各大交易所打新现状：Launchpool降温 / 三类新入口（快照/积分/交易赛）/ 代币化美股崛起 / 平台优先级 | 2026-08-02 |
 
 ## 三、工作实务（work/）
 
