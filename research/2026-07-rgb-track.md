@@ -14,14 +14,14 @@ tags:
 - 闪电网络
 - 赛道研究
 related:
-- "[[../01-bitcoin-rgb|RGB协议基础概念]]"
-- "[[../work/research-writing|赛道调研框架与写作规范]]"
+- "[[../basics/01-bitcoin-rgb|RGB协议基础概念]]"
+- "[[../methods/03-research-writing|赛道调研框架与写作规范]]"
 ---
 
 # RGB 赛道完整档案
 
 > **入库说明**：本档案 2026-07-28 在 Claude 网页版完成（Claude 核查 + Codex 复核双轮交叉验证），2026-07-31 归档进知识库。
-> 协议原理层面的基础概念见 [01-bitcoin-rgb.md](../01-bitcoin-rgb.md)；本档案侧重赛道商业化进展与跟踪。
+> 协议原理层面的基础概念见 [01-bitcoin-rgb.md](../basics/01-bitcoin-rgb.md)；本档案侧重赛道商业化进展与跟踪。
 > **档案为活跃跟踪状态**，第十五节的事件触发制检查点仍在生效，后续有新事件应更新本文件而非另起新档。
 
 > **v3 修订说明(2026-07-28,吸收 Codex 全文复核意见)**
