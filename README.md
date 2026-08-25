@@ -63,7 +63,7 @@
 
 | 文件 | 讲什么 | 为什么值得看 |
 |------|--------|------------|
-| [01-hyperliquid.md](cases/01-hyperliquid.md) | Hyperliquid 全解析：HyperCore/HyperEVM 双层架构、HIP-1/HIP-2、HLP、业务结构、技术难点、HyperBFT | 理解"什么样的项目才有资格自建链"；Perp DEX 技术门槛；链原生交易所 vs 链上交易所的区别 |
+| [01-hyperliquid.md](cases/01-hyperliquid.md) | Hyperliquid 全解析：双层架构、HIP-1/2/3/4、HLP、回购模型、Coinbase/Circle 绑定、美国合规、风险清单（数据截至 2026-08-25） | 理解"什么样的项目才有资格自建链"；Perp DEX 技术门槛；交易所如何变成"交易所的基础设施" |
 | [02-ftx-exchange-tokens.md](cases/02-ftx-exchange-tokens.md) | FTX 暴雷全过程 + 交易所平台币的价值逻辑 + Backpack/BP 分析 | 平台币是 BD 的主场，这篇讲清了平台币凭什么值钱、以及交易所怎么死的 |
 
 ---
@@ -148,4 +148,9 @@
 - HyperCore vs HyperEVM 双层架构 → [案例 01](cases/01-hyperliquid.md#两层架构hypercore-vs-hyperEVM)
 - HIP-1 / HIP-2 代币标准 → [案例 01](cases/01-hyperliquid.md#当前业务结构)
 - HLP 金库机制与风险 → [案例 01](cases/01-hyperliquid.md#当前业务结构)
+- HIP-3 建设者自建永续市场 → [案例 01](cases/01-hyperliquid.md#hip-3从一个交易所变成交易所的基础设施)
+- HIP-4 结果市场/预测市场 → [案例 01](cases/01-hyperliquid.md#hip-4结果市场预测市场)
+- 手续费回购模型（援助基金）→ [案例 01](cases/01-hyperliquid.md#商业模式手续费--回购-hype)
+- USDH 清盘与 Coinbase/Circle 绑定 → [案例 01](cases/01-hyperliquid.md#生态与外部关系)
+- OI 份额 vs 交易量份额的口径陷阱 → [案例 01](cases/01-hyperliquid.md#生态与外部关系)
 - 各所打新现状 → [调研](research/2026-08-exchange-launchpad.md)
