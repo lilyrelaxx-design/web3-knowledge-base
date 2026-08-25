@@ -63,7 +63,7 @@
 
 | 文件 | 讲什么 | 为什么值得看 |
 |------|--------|------------|
-| [01-hyperliquid.md](cases/01-hyperliquid.md) | Hyperliquid 全解析：技术难点、自建链条件、HyperBFT 共识 | 理解"什么样的项目才有资格自建链"，以及 Perp DEX 的技术门槛在哪 |
+| [01-hyperliquid.md](cases/01-hyperliquid.md) | Hyperliquid 全解析：HyperCore/HyperEVM 双层架构、HIP-1/HIP-2、HLP、业务结构、技术难点、HyperBFT | 理解"什么样的项目才有资格自建链"；Perp DEX 技术门槛；链原生交易所 vs 链上交易所的区别 |
 | [02-ftx-exchange-tokens.md](cases/02-ftx-exchange-tokens.md) | FTX 暴雷全过程 + 交易所平台币的价值逻辑 + Backpack/BP 分析 | 平台币是 BD 的主场，这篇讲清了平台币凭什么值钱、以及交易所怎么死的 |
 
 ---
@@ -145,4 +145,7 @@
 - 交易所平台币逻辑 → [案例 02](cases/02-ftx-exchange-tokens.md#二什么是交易所平台币)
 - FTX 事件 → [案例 02](cases/02-ftx-exchange-tokens.md#一ftx-事件加密行业的暴雷银行)
 - 自建链需要什么条件 → [案例 01](cases/01-hyperliquid.md#自建链需要的条件)
+- HyperCore vs HyperEVM 双层架构 → [案例 01](cases/01-hyperliquid.md#两层架构hypercore-vs-hyperEVM)
+- HIP-1 / HIP-2 代币标准 → [案例 01](cases/01-hyperliquid.md#当前业务结构)
+- HLP 金库机制与风险 → [案例 01](cases/01-hyperliquid.md#当前业务结构)
 - 各所打新现状 → [调研](research/2026-08-exchange-launchpad.md)
