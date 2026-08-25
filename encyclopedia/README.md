@@ -64,7 +64,7 @@
 
 ---
 
-### 卷一 · [底层原理](vol1-foundations/) 🟡 3/9
+### 卷一 · [底层原理](vol1-foundations/) 🟡 5/9
 > **不懂这卷，后面全是黑话。** 目标：读完能看懂区块浏览器。
 
 | 章 | 标题 | 核心问题 |
@@ -72,8 +72,8 @@
 | 1.1 | [从记账说起](vol1-foundations/01-why-blockchain.md) ✅ | 为什么人类需要区块链？（双花问题、拜占庭将军） |
 | 1.2 | [比特币是怎么跑起来的](vol1-foundations/02-bitcoin.md) ✅ | UTXO、挖矿、PoW、难度调整、减半、Core vs Knots |
 | 1.3 | [以太坊做对了什么](vol1-foundations/03-ethereum.md) ✅ | 账户模型、EVM、Gas、PoS、Fusaka/Glamsterdam |
-| 1.4 | 私钥、助记词、钱包 | ⚠️ 小白亏钱最集中的地方；热钱包/冷钱包/多签/MPC |
-| 1.5 | 共识机制家族 | PoW / PoS / DPoS / BFT 系；各自的取舍 |
+| 1.4 | [私钥、助记词、钱包](vol1-foundations/04-keys-and-wallets.md) ✅ | ⚠️ 小白亏钱最集中的地方；授权钓鱼、多签/MPC/账户抽象 |
+| 1.5 | [共识机制家族](vol1-foundations/05-consensus.md) ✅ | PoW/PoS/DPoS/BFT 取舍；怎么判断真实去中心化程度 |
 | 1.6 | 扩容问题与解法 | 不可能三角、L2、Rollup（OP/ZK）、DA、模块化 |
 | 1.7 | 代币是怎么被造出来的 | ERC-20/721/1155、合约权限、增发/暂停/黑名单 |
 | 1.8 | 链上数据入门 | 区块浏览器怎么看、地址/交易/合约怎么读、标签体系 |
@@ -252,7 +252,7 @@ MicroStrategy/Strategy ｜ Coinbase(上市体) ｜ Galaxy Digital ｜ Circle(上
 | 卷 | 章数 | 状态 | 备注 |
 |----|------|------|------|
 | 卷零 | 3 | ⬜ 未开始 | |
-| 卷一 底层原理 | 9 | 🟡 3/9 | 1.1–1.3 已完成并核对至 2026-08 |
+| 卷一 底层原理 | 9 | 🟡 5/9 | 1.1–1.5 已完成并核对至 2026-08 |
 | 卷二 金融机制 | 12 | ⬜ 未开始 | 可复用 basics/03、basics/04、methods/01 |
 | 卷三 赛道全景 | 23 | ⬜ 未开始 | 可复用 methods/01 速查表 |
 | 卷四 项目档案 | ~60 篇 | 🟡 1/60 | Hyperliquid 已完成 |
